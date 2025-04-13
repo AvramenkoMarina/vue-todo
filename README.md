@@ -5,4 +5,7 @@ This is a simple ToDo List application built with Vue.js. It allows users to add
 
 
 
-##
+## Technologies
+Vue.js
+HTML5 & CSS3
+JavaScript
