@@ -1,24 +1,8 @@
-# start
+# Todo
+This is a simple ToDo List application built with Vue.js. It allows users to add, complete, and delete tasks, as well as clear all or only completed tasks.
 
-## Project setup
-```
-npm install
-```
+## Demo
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##
